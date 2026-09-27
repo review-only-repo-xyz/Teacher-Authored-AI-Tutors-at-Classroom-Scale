@@ -1,0 +1,75 @@
+discussionId,teacher_name,subject,grade_band,prompt_target_dok,dok_uncertainty,prompt_role,prompt_tone,task_specificity,finish_line,scaffold_socratic,scaffold_stepwise,scaffold_hints_first,scaffold_attempt_first,scaffold_worked_example_prohibition,epistemic_explain_reasoning,epistemic_use_evidence,epistemic_compare_alternatives,epistemic_justify_claims,constraint_short_turn,constraint_one_question_per_turn,constraint_structured_format,constraint_language_level,guardrail_no_direct_answers,guardrail_integrity_language,guardrail_privacy,guardrail_respectful,n_conversations
+063018273226,T10,Earth Science,middle school,3.0,False,tutor,unknown,2.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,14
+08d875367fe5,T09,Science,middle school,3.0,False,facilitator,supportive,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,23
+0bded1bdff77,T12,ELA,high school,2.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+0f403b9c1a4a,T05,CTE & Science,high school,3.0,False,facilitator,unknown,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25
+125d0b8c863c,T08,ELA,middle school,3.0,False,coach,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,19
+12bf14158fd2,T14,Math,middle school,2.0,False,tutor,unknown,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+14e657512b30,T07,ELA,high school,3.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+16db46bb6471,T13,ELA,high school,3.0,False,coach,supportive,2.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,18
+1ce67a41a799,T15,CS,high school,2.0,False,tutor,unknown,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,11
+1ce96d661beb,T02,World Language,high school,3.0,False,coach,unknown,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,98
+20b46027e864,T01,Science,middle school,3.0,False,peer,unknown,2.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,26
+2170fe35dee8,T11,ELA,high school,3.0,False,coach,unknown,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,26
+25ca910b1365,T04,CS,high school,2.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+3345b901ef2f,T12,ELA,high school,2.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+33bd4fb413dd,T01,Science,middle school,3.0,False,peer,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,23
+33e5868bf62f,T07,ELA,high school,3.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+345aa47d5686,T08,ELA,middle school,2.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+37931def094a,T13,ELA,high school,3.0,False,unknown,unknown,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+4451f73642f9,T11,ELA,high school,3.0,False,coach,unknown,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,26
+476ed8d63995,T08,ELA,middle school,3.0,False,coach,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
+4a794f7d7463,T15,CS,high school,2.0,False,tutor,unknown,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+4aecc74a5189,T11,ELA,high school,2.0,False,tutor,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25
+50221c6d3a36,T01,Science,middle school,2.0,False,peer,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,24
+50d51f98f838,T12,ELA,high school,2.0,False,unknown,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+520c944cd247,T01,Science,middle school,3.0,False,peer,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,18
+54a3718a5528,T10,Earth Science,middle school,3.0,False,tutor,unknown,2.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,16
+56e631c81584,T12,ELA,high school,2.0,False,tutor,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,16
+5f3334c277c3,T16,Science,high school,2.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+60a019d0ea60,T11,ELA,high school,3.0,False,coach,unknown,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,23
+6ab1c5e1f7e3,T03,CTE,middle school,3.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+74ffcdd1df6a,T02,World Language,high school,2.0,False,coach,unknown,2.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,72
+7723e612f1de,T13,ELA,high school,3.0,False,coach,unknown,2.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,22
+79a070235cfa,T01,Science,middle school,3.0,False,peer,unknown,2.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,24
+82d21bf2ae84,T05,CTE & Science,high school,1.0,False,facilitator,unknown,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+8691541b8c03,T01,Science,middle school,3.0,False,peer,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,30
+88349a55d364,T12,ELA,high school,2.0,False,tutor,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,21
+8e40ae766b17,T11,ELA,high school,3.0,False,coach,unknown,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,24
+915c78bb2a20,T10,Earth Science,middle school,1.0,False,unknown,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,18
+967e5bceaef2,T10,Earth Science,middle school,1.0,False,unknown,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,17
+989fe5f553d5,T01,Science,middle school,2.0,False,peer,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,27
+98a859f06c5b,T08,ELA,middle school,2.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+98b9b176875f,T13,ELA,high school,3.0,False,unknown,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30
+9d562cfda6ae,T11,ELA,high school,3.0,False,tutor,unknown,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,18
+a10a37003326,T12,ELA,high school,2.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+a79199abf1a5,T07,ELA,high school,3.0,True,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+aa98b675346a,T08,ELA,middle school,3.0,False,coach,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1
+ac05abccb860,T16,Science,high school,3.0,False,coach,unknown,2.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,5
+acea979248bf,T09,Science,middle school,3.0,False,facilitator,supportive,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,26
+b202f562a702,T02,World Language,high school,2.0,False,other,unknown,2.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1
+b3c565902478,T01,Science,middle school,2.0,False,peer,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,24
+b9343ae48c14,T10,Earth Science,middle school,1.0,False,unknown,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,18
+bb67ed41082c,T12,ELA,high school,2.0,False,tutor,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,14
+be5efd54aa60,T15,CS,high school,2.0,False,tutor,unknown,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8
+c47ad64ab91c,T11,ELA,high school,2.0,False,tutor,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,28
+c7f141216f72,T13,ELA,high school,3.0,True,unknown,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25
+c9e45d8d52b6,T01,Science,middle school,3.0,False,peer,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,24
+cae6d4fa162b,T11,ELA,high school,3.0,False,tutor,unknown,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1
+cbb80a8c3f38,T12,ELA,high school,2.0,False,unknown,unknown,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+cc4c81921388,T13,ELA,high school,3.0,False,coach,unknown,2.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,29
+d4007ac724ca,T12,ELA,high school,2.0,False,tutor,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,19
+d6aeebf3c9e9,T06,Math,middle school,2.0,False,peer,unknown,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17
+d6fca8532972,T13,ELA,high school,3.0,False,unknown,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28
+d7a23c9cd8a0,T10,Earth Science,middle school,3.0,False,tutor,unknown,2.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,17
+e09e191d5329,T11,ELA,high school,2.0,False,tutor,unknown,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,28
+e0ad5a989d2f,T14,Math,middle school,3.0,False,unknown,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+e1eb4038b5b7,T06,Math,middle school,2.0,False,tutor,supportive,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+e412dd42510b,T13,ELA,high school,3.0,False,facilitator,unknown,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,30
+e46a439f8102,T07,ELA,high school,3.0,False,teacher,supportive,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3
+e5da36ddaef8,T11,ELA,high school,2.0,False,tutor,unknown,2.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,23
+ecbdf6db6603,T09,Science,middle school,3.0,True,facilitator,supportive,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
+f02a4c28d3ba,T15,CS,high school,2.0,False,tutor,unknown,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+f5ae296d0a34,T13,ELA,high school,3.0,False,facilitator,unknown,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,29
+f6e549d3da35,T13,ELA,high school,3.0,False,unknown,unknown,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28
+fe66b8821e76,T03,CTE,middle school,2.0,False,unknown,unknown,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24

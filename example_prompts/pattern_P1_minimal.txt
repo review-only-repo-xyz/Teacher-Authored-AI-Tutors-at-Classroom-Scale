@@ -1,0 +1,9 @@
+Pattern: P1 (minimal prompt)
+Subject area: English Language Arts | Target DOK: 2
+Key feature codes: no finish line, low task specificity, no scaffolding,
+no epistemic framing, no guardrails
+De-identification: screened; no personal information present; reproduced verbatim.
+---
+
+Students will discuss characteristics of utopias and dystopias.
+Students will identify stories they have read/watched that show either utopias or dystopias.
